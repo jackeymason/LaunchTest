@@ -15,5 +15,4 @@ class Puppy {
         console.log(`${name} is just a lil pup. He's a ${breed}`);
     }
 }
-
 module.exports = Puppy;
